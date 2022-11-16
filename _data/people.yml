@@ -72,7 +72,9 @@ tjeerd:
   full-name: Tjeerd Fokkens
   position: PhD student
   homepage: https://www.gu.se/en/about/find-staff/tjeerdfokkens
-  description: 
+  description: >
+    What makes logic difficult for humans? Cognitive aspects of deductive/symbolic reasoning, mainly the description logic ALE.
+    Simulation these processes with ACT-R.
 
 mattias:
   name: Mattias Granberg Olsson
